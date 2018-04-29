@@ -23,7 +23,7 @@ exports.livenet = {
     bits: 0x1e0fffff,
   },
   dnsSeeds: [
-    'dnsseed.neetcoin.jp'
+    'ringoseed.dip.jp'
   ],
   defaultClientPort: 9393
 };
